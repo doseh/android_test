@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //Comentari sense sentit
         setContentView(R.layout.activity_main);
     }
 }
